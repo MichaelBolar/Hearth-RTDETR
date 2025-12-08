@@ -1,4 +1,4 @@
-Hearth is a real-time visual smoke detection system designed for early wildfire identification in remote forested environments. Using machine learning, edge computing, and secure communication protocols, HODS analyzes live video streams from 360°/PTZ cameras, detects smoke plumes, and sends immediate alerts to authorized personnel.
+Hearth is a real-time visual smoke detection system designed for early wildfire identification in remote forested environments. Using machine learning, edge computing, and secure communication protocols, Hearth analyzes live video streams from 360°/PTZ cameras, detects smoke plumes, and sends immediate alerts to authorized personnel.
 
 This project is based on the Hearth Software Requirements Specification (SRS), version 1.0.
 
@@ -8,12 +8,10 @@ This project is based on the Hearth Software Requirements Specification (SRS), v
 
 Wildfires continue to threaten forests, wildlife, property, and human life. Hearth provides an automated, 24/7 monitoring solution that detects smoke early—often before reports from human observers.
 
-HODS uses:
+Hearth uses:
 
 - **RT-DETR object detection model** for real-time smoke identification  
 - **Edge inference** for on-site processing  
-- **Secure alerting** through dashboard, terminal, SMS, and email  
-- **Data logging** for long-term event analysis and model improvement  
 
 The system supports deployment in forested areas across North America and is designed for rugged environments with intermittent connectivity.
 
